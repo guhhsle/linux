@@ -1,0 +1,1 @@
+Neovim configuration for Flutter
