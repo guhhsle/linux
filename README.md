@@ -1,1 +1,1 @@
-Linux NixOS configuration
+Linux NixOS configuration with Flutter support
